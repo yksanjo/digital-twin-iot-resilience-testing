@@ -1,10 +1,10 @@
-# Digital Twin for IoT Resilience Testing
+# digital-twin-iot-resilience-testing
 
-Simulate failures and attacks against digital twins before production.
+## Detailed Description
 
 ## Vertical
 
-iot
+## Problem Statement
 
 ## Production MVP Deliverables
 
